@@ -303,7 +303,7 @@ async def send_doc(bot: Client, m: Message, cc, ka, cc1, prog, count, name):
     reply = await m.reply_text(
         f"**💌 Just for you, my love... Your content is on its way to you ☁️**\n\n"
         f"**📖 Title »** `{name}`\n\n"
-        f"**With all my love, always and forever...**\n"
+        f"**With all my love, always and forever BUDDY...**\n"
         f"— **Your one and only,**\n"
         f"**@username**"
 )
