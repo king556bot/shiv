@@ -390,10 +390,10 @@ async def info(bot: Client, update: Message):
 @bot.on_message(filters.command(["help"]))
 async def txt_handler(client: Client, m: Message):
     await bot.send_message(m.chat.id, text=(
-        f"🎉 **Congratulations, my love!** You're now using **king 🖤**! 🎉\n\n"
+        f"🎉 **Congratulations, my love!** You're now using **aimnorcet 🖤**! 🎉\n\n"
         f"🔹 **Send me a link** to extract the content you desire 🔗\n\n"
         f"❓ **Got questions?** I'm always here for you, darling!\n"
-        f"📱 **Reach out anytime:** [**rajasthni king**](https://t.me/username)\n\n"
+        f"📱 **Reach out anytime:** [**RAJASTHAN**](https://t.me/username)\n\n"
         f"✨ <b> Enjoy the magic, and stay tuned for more updates, my love! </b> ✨"
     ))
 
